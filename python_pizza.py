@@ -16,7 +16,7 @@ if add_peperoni == "Y":
         bill += 2
     else:
         bill += 3
-cheese = input("Do you want cheese? Y / N: ")
+cheese = input("Do you want cheese? Y / N:? ")
 if cheese == "Y":
     bill += 1
     
