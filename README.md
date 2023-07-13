@@ -19,6 +19,14 @@ This repository contains a collection of projects completed during the 100 Days 
 
 Feel free to explore each project's file for more details and to try them out!
 
+##Project 4: Secret auction bidding program
+- File: `auction_bit.py`
+- Description: This program allows users to participate in an auction bidding process. Participants can enter their names and bid amounts, and the program will determine the highest bidder at the end.
+
+# password_generator
+- File: `password_generator.py`
+- Description:  This program helps to generate random passwords with letters, numbers and symbols
+
 ## Contributing
 
 Contributions to this repository are welcome. If you have any suggestions, improvements, or additional projects to contribute, please feel free to open an issue or submit a pull request.
@@ -30,4 +38,3 @@ If you would like to contribute code to the existing projects or add new project
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
-# password_generator
