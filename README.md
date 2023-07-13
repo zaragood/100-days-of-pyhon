@@ -19,11 +19,11 @@ This repository contains a collection of projects completed during the 100 Days 
 
 Feel free to explore each project's file for more details and to try them out!
 
-##Project 4: Secret auction bidding program
+## Project 4: Secret auction bidding program
 - File: `auction_bit.py`
 - Description: This program allows users to participate in an auction bidding process. Participants can enter their names and bid amounts, and the program will determine the highest bidder at the end.
 
-# password_generator
+# Project 5: Password_generator
 - File: `password_generator.py`
 - Description:  This program helps to generate random passwords with letters, numbers and symbols
 
