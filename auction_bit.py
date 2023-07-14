@@ -16,6 +16,7 @@ def add_new_bider(name, bid):
 
 #function that checkes for the highest bidder
 def highest_bidder(bidding_record):
+    """Takes in a list as parameter"""
     highest_bid = 0
     winner = ""
     for key in bidding_record:
