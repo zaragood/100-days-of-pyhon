@@ -27,6 +27,15 @@ Feel free to explore each project's file for more details and to try them out!
 - File: `password_generator.py`
 - Description:  This program helps to generate random passwords with letters, numbers and symbols
 
+## Project 6: Black Jack
+-file `blackjack.py`
+-Description: The Blackjack Game is a Python script that provides a text-based implementation of the popular card game, Blackjack. The objective of the game is to obtain a hand with a higher total value than the dealer's hand without exceeding 21.
+
+## Features
+Player vs. Dealer: Play against the computer-controlled dealer.
+Hit or Stand: Choose to draw additional cards or keep the current hand.
+Win/Loss Evaluation: Automatically determine the winner and display the outcome.
+
 ## Contributing
 
 Contributions to this repository are welcome. If you have any suggestions, improvements, or additional projects to contribute, please feel free to open an issue or submit a pull request.
