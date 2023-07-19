@@ -36,8 +36,27 @@ Player vs. Dealer: Play against the computer-controlled dealer.
 Hit or Stand: Choose to draw additional cards or keep the current hand.
 Win/Loss Evaluation: Automatically determine the winner and display the outcome.
 
-## Contributing
+## Project 7: Coffee Machine Program
+- File: `coffee_machine.py`
+- Description: This program simulates the functionality of a coffee machine, allowing users to select and customize their desired coffee drinks. It provides a command-line interface for interacting with the coffee machine.
 
+## Features
+Selection of coffee type: The program offers options for espresso, cappuccino, and latte.
+Brewing process: The program simulates the brewing process, including grinding coffee beans, heating water, and extracting coffee.
+Error handling: The program provides informative error messages in case of incorrect inputs or system malfunctions.
+Cost calculation: The program calculates the cost of each coffee drink based on the selected options.
+Currency support: The program currently supports US dollars as the currency for cost calculations.
+
+## Limitations
+The program currently supports a command-line interface and does not have a graphical user interface (GUI).
+The currency support is limited to US dollars. Modifying the currency or adding support for other currencies would require code changes.
+
+## Acknowledgments
+The program was developed as a sample project and does not represent a complete production-ready coffee machine system.
+This program was created for learning and demonstration purposes.
+Feel free to customize this README file based on the specifics of your coffee machine program and include any additional sections or details you think would be relevant for your users.
+
+## Contributing
 Contributions to this repository are welcome. If you have any suggestions, improvements, or additional projects to contribute, please feel free to open an issue or submit a pull request.
 
 Author: Azara Goodness Chibueyim
